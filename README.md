@@ -38,9 +38,9 @@ $ npm run dev
 
 - Compile and deploy the contract on the Ethereum Network;
 - Must have values for theses variables:
-  - `CAMPAIGN_FACTORY_ADDR` - Campaign Factory address obtained from the deploy step.
-  - `TWELVE_WORD_PASS` - Mnemonic phrase of your wallet.
-  - `INFURA_URL` - Ethereum Network Infura API URL.
+   - Campaign Factory address obtained from the deploy step.
+   - Mnemonic phrase of your wallet.
+   - Ethereum Network Infura API URL.
 - Run the development server.
 
 # Pages
